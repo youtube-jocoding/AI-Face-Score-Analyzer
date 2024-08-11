@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jocodinghackathon.web.app/sitemap.xml
